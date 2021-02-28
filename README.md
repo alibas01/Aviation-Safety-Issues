@@ -9,3 +9,27 @@ My ML model is providing a good representation of the reasons on air conflicts i
 Accuracy Scores for the Training set : 0.83854 and Test Set : 0.821946
 
 # Snapshots of Data Storytelling & Model Results
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/inciden_dist_by_loc.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/inciden_dist_by_loc.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/amount_of%20assesments.png">
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/EDA_altitudes.png">
+</p>
+
+# RESULTS:
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/Random_forest_model.png">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/alibas01/Aviation-Safety-Issues/blob/master/pics/Gradient_boost_model.png">
+</p>
